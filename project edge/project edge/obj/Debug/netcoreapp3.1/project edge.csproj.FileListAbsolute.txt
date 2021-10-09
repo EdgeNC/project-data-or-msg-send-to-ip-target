@@ -1,0 +1,17 @@
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.exe
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.deps.json
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.runtimeconfig.json
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.runtimeconfig.dev.json
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.dll
+C:\Users\10\source\repos\project edge\project edge\bin\Debug\netcoreapp3.1\project edge.pdb
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.csproj.AssemblyReference.cache
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project_edge.Form1.resources
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project_edge.Properties.Resources.resources
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.csproj.GenerateResource.cache
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.AssemblyInfo.cs
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.dll
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.pdb
+C:\Users\10\source\repos\project edge\project edge\obj\Debug\netcoreapp3.1\project edge.genruntimeconfig.cache
